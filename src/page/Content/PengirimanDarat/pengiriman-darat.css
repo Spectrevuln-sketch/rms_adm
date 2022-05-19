@@ -1,0 +1,8 @@
+.breadcrumb-item{
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.breadcrumb-item.active{
+  cursor: pointer;
+}
